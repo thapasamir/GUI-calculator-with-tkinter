@@ -1,5 +1,6 @@
 from tkinter import *
 root = Tk()
+#bug fix
 #making gemotry
 root.wm_iconbitmap('logo.ico')
 root.wm_title('SAM_CALC')
